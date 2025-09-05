@@ -1,7 +1,10 @@
 # BabelDOC-OneClick
 免费PDF文档翻译软件BabelDOC免安装整合包
 
-![](https://raw.githubusercontent.com/aidayang/BabelDOC-OneClick/refs/heads/main/bab.webp)
+### 2025-09-05更新至最新版
+
+<img width="1000" height="472" alt="image" src="https://github.com/user-attachments/assets/4a3fb390-ac63-4fec-944f-b2375c706a6a" />
+
 
 ## BabelDOC整合包使用教程
 首先将网盘内的软件压缩包下载到本地电脑上并解压，然后双击启动软件.exe启动。
@@ -66,7 +69,7 @@ tgt_lng列（可选）指定该特定条目的目标语言（例如，“zh-CN�
 
 软件处理流程：软件首先对PDF文档内容进行识别，然后将识别到的内容传送给AI，也就是deepseek，ChatGP等，AI翻译完成之后再将翻译结果返回给软件，软件再进行排版生成新的PDF文档等操作。由于你的PDF文档内容会上传给云端大语言模型，所以请勿对敏感私密文档进行翻译。
 
-视频教程及效果演示：https://www.youtube.com/watch?v=mBoPvwYrBBg
+视频教程及效果演示：https://www.youtube.com/watch?v=qNcETW6qoRs
 
 ## 注意事项
 软件只支持windows 10或11
@@ -76,7 +79,8 @@ tgt_lng列（可选）指定该特定条目的目标语言（例如，“zh-CN�
 ## PDF文档翻译软件BabelDOC整合包下载链接
 https://pan.quark.cn/s/d37e507ae8e0
 
-https://pan.xunlei.com/s/VOSnDWPpHHdR8T_YwBzZiHeTA1?pwd=kksh#
+## 在线一键启动
+[点击使用云镜像>>](https://www.compshare.cn/images/WlA85JjXs1f8?referral_code=FlfHWpg22A9EnXni6kYKRv&ytag=GPU_yy_aidayang0905)
 
 ## 原项目链接
 https://github.com/funstory-ai/BabelDOC
