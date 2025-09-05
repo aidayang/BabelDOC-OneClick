@@ -11,11 +11,11 @@
 
 软件处理功能依赖于云端大语言模型，所以首先需要配置API。
 
-点击【设置】，只支持类openai的大语言模型，如果你已有API的话直接在软件里填入对应参数即可。如果还没有API的话，可以点击下面链接申请硅基流动的DeepSeek API，用户有2000万tokens的免费额度，申请链接：https://cloud.siliconflow.cn/i/pbDLjMCI
+点击【设置】，只支持类openai的大语言模型，如果你已有API的话直接在软件里填入对应参数即可。如果还没有API的话，可以点击下面链接申请API，新用户有50万tokens的免费额度及10元赠金，申请链接：https://console.compshare.cn/light-gpu/api-keys?referral_code=FlfHWpg22A9EnXni6kYKRv
 
-模型默认为：deepseek-ai/DeepSeek-V3
+模型默认为：deepseek-ai/DeepSeek-V3-0324
 
-BASE URL默认：https://api.siliconflow.cn/v1
+BASE URL默认：https://api.modelverse.cn/v1
 
 API KEY为你自己的key。
 
